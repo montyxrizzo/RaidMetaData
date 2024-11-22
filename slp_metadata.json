@@ -6,6 +6,14 @@
     "description": "The Radeon token is the SLP token for RAID. An innovative utility token built on the Solana blockchain, designed to accelerate the growth of distributed machine learning by leveraging decentralized computing power. By enabling everyday users and investors to monetize their underutilized GPU resources, RAID transforms individual computers into valuable nodes in a global AI infrastructure. Allowing RAID to provide competitive compute prices to customers (competing with the likes of AWS and Microsoft), without comproimising on performance.",
     "website": "https://raidnetwork.finance/",
     "external_url": "https://raidnetwork.finance/",
+     "additionalMetadata": [
+        [    "website",
+       "https://raidnetwork.finance/"],
+    [
+      "description",
+     "The Radeon token is the SLP token for RAID. An innovative utility token built on the Solana blockchain, designed to accelerate the growth of distributed machine learning by leveraging decentralized computing power. By enabling everyday users and investors to monetize their underutilized GPU resources, RAID transforms individual computers into valuable nodes in a global AI infrastructure. Allowing RAID to provide competitive compute prices to customers (competing with the likes of AWS and Microsoft), without comproimising on performance."
+    ]
+  ],
     "extensions": {
         "website": "https://raidnetwork.finance/",
         "twitter": "",
