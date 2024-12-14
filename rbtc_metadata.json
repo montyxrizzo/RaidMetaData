@@ -23,7 +23,7 @@
     ],
     "creators": [
       {
-        "address": "7JgvV3WPGGGK7HyDxg1uiugJtuDJXCstcH2FfXAUTUGu", // Replace with your wallet's public key
+        "address": "7JgvV3WPGGGK7HyDxg1uiugJtuDJXCstcH2FfXAUTUGu", 
         "share": 100
       }
     ]
