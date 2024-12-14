@@ -1,16 +1,10 @@
 {
   "name": "AI Bitcoin",
   "symbol": "AIBTC",
-  "description": "AI Bitcoin (AIBTC) is a special reward token on the Solana blockchain, created as part of the RAID ecosystem. There will only ever be 1,000 AIBTC. Stake RAID tokens to earn AIBTC as a reward for contributing to the network.",
+  "description": "AI Bitcoin (AIBTC) is a special reward token on the Solana blockchain. There will only ever be 1,000 AIBTC. Stake RAID tokens to earn AIBTC.",
   "image": "https://raw.githubusercontent.com/montyxrizzo/RaidMetaData/main/rbtcc.png",
   "seller_fee_basis_points": 0,
-  "external_url": "https://raidnetwork.finance/",
-  "attributes": [
-    {
-      "trait_type": "Scarcity",
-      "value": "1,000 Tokens"
-    }
-  ],
+  "attributes": [],
   "properties": {
     "files": [
       {
@@ -18,11 +12,7 @@
         "type": "image/png"
       }
     ],
-    "creators": [
-      {
-        "address": "7JgvV3WPGGGK7HyDxg1uiugJtuDJXCstcH2FfXAUTUGu",
-        "share": 100
-      }
-    ]
-  }
+    "category": "image"
+  },
+  "external_url": "https://raidnetwork.finance/"
 }
