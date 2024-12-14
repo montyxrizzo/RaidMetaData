@@ -1,6 +1,31 @@
 {
-    "name": "AI Bitcoin",
-    "symbol": "AIBTC",
-    "image": "https://raw.githubusercontent.com/montyxrizzo/RaidMetaData/main/rbtcc.png",
-    "description": "AIBTC is a special reward token on the Solana blockchain, created as part of the RAID ecosystem. Inspired by the scarcity of Bitcoin, there will only ever be 1,000 AIBTC. Stake RAID tokens to earn AIBTC, which will be bought back regularly using proceeds from network operations and placed in a vault. Stakers can earn AIBTC as a reward for contributing to the network, fostering a sustainable model for growth."
+  "name": "AI Bitcoin",
+  "symbol": "AIBTC",
+  "description": "AIBTC is a special reward token on the Solana blockchain, created as part of the RAID ecosystem. Inspired by the scarcity of Bitcoin, there will only ever be 1,000 AIBTC. Stake RAID tokens to earn AIBTC, which will be bought back regularly using proceeds from network operations and placed in a vault. Stakers can earn AIBTC as a reward for contributing to the network, fostering a sustainable model for growth.",
+  "seller_fee_basis_points": 0,
+  "image": "https://raw.githubusercontent.com/montyxrizzo/RaidMetaData/main/rbtcc.png",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Reward Token"
+    },
+    {
+      "trait_type": "Ecosystem",
+      "value": "RAID"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/montyxrizzo/RaidMetaData/main/rbtcc.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "7JgvV3WPGGGK7HyDxg1uiugJtuDJXCstcH2FfXAUTUGu", // Replace with your wallet's public key
+        "share": 100
+      }
+    ]
+  }
 }
