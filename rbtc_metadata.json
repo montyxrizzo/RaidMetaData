@@ -1,4 +1,4 @@
-const metadata = {
+{
     name: 'AI Bitcoin',
     symbol: 'AIBTC',
     uri: 'https://raw.githubusercontent.com/montyxrizzo/RaidMetaData/main/rbtc_metadata.json',
@@ -8,5 +8,5 @@ const metadata = {
             address: wallet.publicKey.toString(),
             share: 100,
         },
-    ], // Ensure creators are structured correctly
-};
+    ],
+}
